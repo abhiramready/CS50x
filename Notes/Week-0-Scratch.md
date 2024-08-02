@@ -31,3 +31,4 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 
 ![image](https://github.com/user-attachments/assets/1b4799fd-3873-4cb1-8bfe-1b7b6d8d4f9a)
 
+## Algorithms
