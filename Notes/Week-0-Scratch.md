@@ -68,7 +68,7 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 |:----------------------:|
 | Pseudocode to search a number in Phonebook |
 
-### Artificial intelligence
+## What is Artificial intelligence
 
 **LLM - Large Language Model**: An implementation in software that takes in input like lots of text, all of the web pages, information, and content and infers what a human might answer when asked the same question by learning the language patterns and predict statistically/probabilistically a human answer with.
 
@@ -77,6 +77,7 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 | CS50.ai |
 
 ## Scratch
+
 Scratch is a visual programming language, i.e., Scratch is used to visually represent ideas in code
 
 | ![Hello world in Scratch](https://github.com/user-attachments/assets/c4dbf895-4470-43ee-a942-afae4837477c) |
@@ -87,7 +88,8 @@ Scratch is a visual programming language, i.e., Scratch is used to visually repr
 |:----------------------:|
 | Input -> Algorithm Join (whose purpose is to join the inputs) -> Output |
 
-### Abstraction
+### Abstraction in Scratch
+
 Creating our function to do something to achieve modularity and abstraction
 
 | ![Code to Meow function](https://github.com/user-attachments/assets/cb0e6a04-96ba-4ed2-a383-912f0975864d) |
