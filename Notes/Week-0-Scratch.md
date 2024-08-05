@@ -108,4 +108,4 @@ Creating our function to do something to achieve modularity and abstraction
 |:----------------------:|
 | Ivy's Hardest Game |
 
-## This is CS50 Week 0 - Scratch | Special Thanks to Harvard Professor David J. Malan
+### This is CS50 - Special Thanks to Harvard Professor David J. Malan
