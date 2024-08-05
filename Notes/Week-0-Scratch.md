@@ -95,7 +95,7 @@ Creating our function to do something to achieve modularity and abstraction
 |:----------------------:|
 | Code to Meow function |
 
-### Oscartime is a Game made from Scratch
+### Oscartime - a Game made from Scratch
 
 - Oscartime is made possible over a few iterations and blocks of logic coming together
 - Step by step where each block handles a particular logic
