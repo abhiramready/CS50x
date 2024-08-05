@@ -87,7 +87,12 @@ Scratch is a visual programming language, i.e., Scratch is used to visually repr
 |:----------------------:|
 | Input -> Algorithm Join (whose purpose is to join the inputs) -> Output |
 
+### Abstraction
+Creating our function to do something to achieve modularity and abstraction
 
+| ![Code to Meow function](https://github.com/user-attachments/assets/cb0e6a04-96ba-4ed2-a383-912f0975864d) |
+|:----------------------:|
+| Code to Meow function |
 
 | ![]() |
 |:----------------------:|
