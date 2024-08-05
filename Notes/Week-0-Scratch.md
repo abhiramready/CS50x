@@ -17,9 +17,9 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 - If we want 8 we add one more bit 8 = 1000 i.e (1 x 2^3 = 8) + (0 x 2^2 = 0) + (0 x 2^1 = 0) + (0 x 2^0 = 0)
 - Data is stored in **bytes**, 1 byte = 9 bits, let's take 1 byte with all 1's 11111111 = 255 and hold up to 256 numbers if we consider 0
 
-| ![Bulbs used to represent 7 in as 111 ( on, on, on)](https://github.com/user-attachments/assets/c9a11472-c464-4441-995a-891215a31a9e) |
+| ![Light Bulbs used to represent 7 in as 111 ( on, on, on)](https://github.com/user-attachments/assets/c9a11472-c464-4441-995a-891215a31a9e) |
 |:----------------------:|
-| Bulbs used to represent 7 in as 111 ( on, on, on) |
+| Light Bulbs used to represent 7 in as 111 ( on, on, on) |
 
 ### ASCII
 
