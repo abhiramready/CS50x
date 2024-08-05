@@ -23,7 +23,7 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 - Ultimately all devices read or understand only bits so we made ASCII (a standard data-encoding format for electronic communication between computers)
 - **A** in ASCII is 65 in binary it's 01000001, Hi! is 72 73 33
 
-| ![ASCII Table with 127 unique characters  ( 7 Bit ASCII has 128 and now used 8 Bit has 256 ](https://github.com/user-attachments/assets/a446a708-450f-4e39-97c7-d2462ddc750e) |
+| ![ASCII Table with 127 unique characters  ( 7 Bit ASCII has 128 and now used 8 Bit has 256 ](https://github.com/user-attachments/assets/03903ca2-cf3c-4bb6-9ec9-9fe5dfc10a4a) |
 |:----------------------:|
 | ASCII Table with 127 unique characters  ( 7 Bit ASCII has 128 and now used 8 Bit has 256 ) |
 
@@ -31,14 +31,19 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 - Unicode is an encoding standard that uses up to 32 bits, as required to capture all known languages and characters
 - Unicode uses two encoding forms: 8-bit and 16-bit depending on the data being encoded
 - Emojis contain the color and combination of emojis is the result of combining the Unicode characters of various emojis, although emojis might look a bit different on Android, Apple, etc the underlying Unicode is the same
-- Context matters: We follow various methods to present information in different forms like text, emoji, and colors for example, each pixel can be 8 bits to represent the combination of RGB,  pixels come together to form an picture or an emoji, music is made up of notes and loudness, video is moving images and so on
+- Context matters: We follow various methods to present information in different forms like text, emoji, and colors for example, each pixel can be 8 bits to represent the combination of RGB,  pixels come together to form a picture or an emoji, music is made up of notes and loudness, video is moving images and so on
 
 | ![How an Emoji is encoded in Unicode](https://github.com/user-attachments/assets/1b4799fd-3873-4cb1-8bfe-1b7b6d8d4f9a) |
 |:----------------------:|
 | How an Emoji is encoded in Unicode |
 
 ## Algorithms
-What stands between inputs(the problem) and outputs(the solution) are algorithms, which basically means step-by-step instructions for solving our problems.
+What stands between inputs(the problem) and outputs(the solution) are algorithms, which means step-by-step instructions for solving our problems. Better algorithms are designed to be faster and more efficient.
+
+Let's say we follow three methods to search for a number from a 1000-page phonebook
+1. Method 1 [ n ] - We search all 100 pages individually, which takes n time. i.e each page has to be turned
+2. Method 2 [ n/2 ] - We search one half of the book based on the alphabet and we have to turn only 500 pages
+3. Method 3 [ log<sub>2</sub>n ] - Here we keep only halving the pages to reach our desired page
 
 | ![Algorithm efficiency of three ways to search a number in Phonebook](https://github.com/user-attachments/assets/6104e944-76ea-43d4-92ac-affafc4527bb) |
 |:----------------------:|
