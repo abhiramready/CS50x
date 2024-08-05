@@ -57,24 +57,30 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 
 ## Pseudocode
 
-* Pseudocode is a human-readable step-by-step version of the code/solution to the problem
-* Pseudocode is made up of a few building blocks like functions, conditionals, boolean expressions, and loops that are common in all programming languages
-* In the below Pseudocode, **Pick up, Open to, Call, and Quit** are [ **functions = actions or verbs that tell us what to do** ]
-* **If** and **Else** are [ **conditionals = do this or that** ]
-* **Person is on page** is a [ **boolean expression = ask a question with two possible answers like true or false, yes or no** ]
-* **Go back to line 3** is a [ **loop = like a cycle to do something again and again** ]
+- Pseudocode is a human-readable step-by-step version of the code/solution to the problem
+- Pseudocode is made up of a few building blocks like functions, conditionals, boolean expressions, and loops that are common in all programming languages
+- In the below Pseudocode, **Pick up, Open to, Call, and Quit** are [ **functions = actions or verbs that tell us what to do** ]
+- **If** and **Else** are [ **conditionals = do this or that** ]
+- **Person is on page** is a [ **boolean expression = ask a question with two possible answers like true or false, yes or no** ]
+- **Go back to line 3** is a [ **loop = like a cycle to do something again and again** ]
 
 | ![Pseudocode to search a number in Phonebook](https://github.com/user-attachments/assets/4298e506-4acd-4322-9697-abf48b4f4bb4) |
 |:----------------------:|
 | Pseudocode to search a number in Phonebook |
 
-## Artificial intelligence
+### Artificial intelligence
 
 **LLM - Large Language Model**: An implementation in software that takes in input like lots of text, all of the web pages, information, and content and infers what a human might answer when asked the same question by learning the language patterns and predict statistically/probabilistically a human answer with.
 
 | ![CS50.ai](https://github.com/user-attachments/assets/df13b113-7e27-44c1-97e3-e877ba7c1b38) |
 |:----------------------:|
 | CS50.ai |
+
+## Scratch
+- Scratch is a visual programming language, i.e., Scratch is used to visually represent ideas in code
+- Hello world in Scratch
+- 
+
 
 
 
