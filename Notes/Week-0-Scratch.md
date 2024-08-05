@@ -50,11 +50,11 @@ What stands between input(problem) and output(solution) are algorithms, which ar
 Let's say we follow three methods to search for a number from a 1000-page phonebook
 1. Method 1 [ n ] - We search all 1000 pages individually, which takes n time. i.e each page has to be turned
 2. Method 2 [ n/2 ] - We search one half of the book based on the alphabet and we have to turn only 500 pages
-3. Method 3 [ log<sub>2</sub>n ] - Here we keep only halving the pages to reach our desired page
+3. Method 3 [ log<sub>2</sub>n ] - Here we keep only halving the pages to reach our desired page, first 1000 becomes 500 then 250, and so on
 
-| ![Algorithm efficiency of three ways to search a number in Phonebook](https://github.com/user-attachments/assets/6104e944-76ea-43d4-92ac-affafc4527bb) |
+| ![Algorithm efficiency of three different methods to search a number in Phonebook](https://github.com/user-attachments/assets/6104e944-76ea-43d4-92ac-affafc4527bb) |
 |:----------------------:|
-| Algorithm efficiency of three ways to search a number in Phonebook |
+| Algorithm efficiency of three different methods to search a number in Phonebook |
 
 ## Pseudocode
 
@@ -71,7 +71,7 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 
 ## What is Artificial intelligence
 
-**LLM - Large Language Model**: An implementation in software that takes in input like lots of text, all of the web pages, information, and content and infers what a human might answer when asked the same question by learning the language patterns and predict statistically/probabilistically a human answer with.
+**LLM - Large Language Model**: An implementation in software that takes in input lots of information like text, various forms of content, and all of the web pages as input, and then infers(concludes) what a human might answer when asked the same question. An LLM answers like a human by learning the language patterns and predicting a human answer statistically/probabilistically.
 
 | ![CS50.ai](https://github.com/user-attachments/assets/df13b113-7e27-44c1-97e3-e877ba7c1b38) |
 |:----------------------:|
