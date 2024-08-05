@@ -72,9 +72,13 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 
 **LLM - Large Language Model**: An implementation in software that takes in input like lots of text, all of the web pages, information, and content and infers what a human might answer when asked the same question by learning the language patterns and predict statistically/probabilistically a human answer with.
 
+| ![CS50.ai](https://github.com/user-attachments/assets/df13b113-7e27-44c1-97e3-e877ba7c1b38) |
+|:----------------------:|
+| CS50.ai |
 
 
-| ![]) |
+
+| ![]() |
 |:----------------------:|
 |  |
 
