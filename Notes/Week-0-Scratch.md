@@ -49,3 +49,18 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 |:----------------------:|
 | Algorithm efficiency of three ways to search a number in Phonebook |
 
+## Pseudocode
+* Pseudocode is a human-readable step-by-step version of the code/solution to the problem
+* Pseudocode is made up of functions, conditionals, boolean expressions, and loops
+
+| ![Pseudocode to search a number in Phonebook](https://github.com/user-attachments/assets/4298e506-4acd-4322-9697-abf48b4f4bb4) |
+|:----------------------:|
+| Pseudocode to search a number in Phonebook |
+
+
+
+
+| ![]) |
+|:----------------------:|
+|  |
+
