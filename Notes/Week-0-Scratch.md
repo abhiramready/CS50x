@@ -37,7 +37,7 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 - Unicode is an encoding standard that uses up to 32 bits, as required with the goal of capturing all known languages and characters
 - Unicode uses two encoding forms: 8-bit and 16-bit depending on the data to be encoded
 - Emojis contain colors and some emojis are a combination of emojis which is a result of combining the Unicode characters of various emojis, although emojis might look a bit different on Android, Apple, etc the underlying Unicode is the same
-- **Context matters while representing data:** We follow various methods to present information in different forms like text, emoji, and colors for example, each pixel can be 8 bits to represent the combination of RGB,  and pixels come together to form an emoji or a picture, video is moving images, music is made up of notes and loudness,  and so on
+- **Context matters while representing data:** We follow various methods to represent information in different forms like text, emoji, and colors for example, each pixel can be 8 bits to represent the combination of RGB, and pixels come together to form an emoji or a picture, video is moving images, music is made up of notes and loudness, and so on
 
 | ![How an Emoji is encoded in Unicode](https://github.com/user-attachments/assets/1b4799fd-3873-4cb1-8bfe-1b7b6d8d4f9a) |
 |:----------------------:|
@@ -45,10 +45,10 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 
 ## Algorithms
 
-What stands between inputs(the problem) and outputs(the solution) are algorithms, which means step-by-step instructions for solving our problems. Better algorithms are designed to be faster and more efficient.
+What stands between input(problem) and output(solution) are algorithms, which are step-by-step instructions to solve problems. Better algorithms are designed to be faster and more efficient.
 
 Let's say we follow three methods to search for a number from a 1000-page phonebook
-1. Method 1 [ n ] - We search all 100 pages individually, which takes n time. i.e each page has to be turned
+1. Method 1 [ n ] - We search all 1000 pages individually, which takes n time. i.e each page has to be turned
 2. Method 2 [ n/2 ] - We search one half of the book based on the alphabet and we have to turn only 500 pages
 3. Method 3 [ log<sub>2</sub>n ] - Here we keep only halving the pages to reach our desired page
 
