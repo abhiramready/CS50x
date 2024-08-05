@@ -1,12 +1,15 @@
 # Week 0 - Scratch
 
 ## Computer Science
+
 **Computer Science** is about the goal of **problem solving** using **computational thinking**
 
 Thinking like a computer and applying solutions to problems i.e in a computational way, clean thought process, logical and methodical
 
 ## How Data is represented
+
 ### Binary
+
 - Humans use base 10 e.g. 123 (read as one hundred twenty-three) = 1 x 100 + 2 x 20 + 3 x 1 (hundreds, tens, and ones place)
 - Computers use base-2 or binary using 0's and 1's, Bit comes from the _**Bi**_ nary digi _**t**_
 - Binary maps readily with electronics like 'on' (1) and 'off' (0) or store electrical charge using transistors, modern devices like laptops and mobiles have millions and billions of them. Apple M3 Pro has 37 billion
@@ -19,6 +22,7 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 | Bulbs used to represent 7 in as 111 ( on, on, on) |
 
 ### ASCII
+
 - ASCII - American Standard Code for Information Interchange
 - Ultimately all devices read or understand only bits so we made ASCII (a standard data-encoding format for electronic communication between computers)
 - **A** in ASCII is 65 in binary it's 01000001, Hi! is 72 73 33
@@ -28,6 +32,7 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 | ASCII Table with 127 unique characters  ( 7 Bit ASCII has 128 and now used 8 Bit has 256 ) |
 
 ### Unicode
+
 - Unicode is an encoding standard that uses up to 32 bits, as required to capture all known languages and characters
 - Unicode uses two encoding forms: 8-bit and 16-bit depending on the data being encoded
 - Emojis contain the color and combination of emojis is the result of combining the Unicode characters of various emojis, although emojis might look a bit different on Android, Apple, etc the underlying Unicode is the same
@@ -38,6 +43,7 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 | How an Emoji is encoded in Unicode |
 
 ## Algorithms
+
 What stands between inputs(the problem) and outputs(the solution) are algorithms, which means step-by-step instructions for solving our problems. Better algorithms are designed to be faster and more efficient.
 
 Let's say we follow three methods to search for a number from a 1000-page phonebook
@@ -50,6 +56,7 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 | Algorithm efficiency of three ways to search a number in Phonebook |
 
 ## Pseudocode
+
 * Pseudocode is a human-readable step-by-step version of the code/solution to the problem
 * Pseudocode is made up of a few building blocks like functions, conditionals, boolean expressions, and loops that are common in all programming languages
 * In the below Pseudocode, **Pick up, Open to, Call, and Quit** are [ **functions = actions or verbs that tell us what to do** ]
@@ -61,6 +68,9 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 |:----------------------:|
 | Pseudocode to search a number in Phonebook |
 
+## Artificial intelligence
+
+**LLM - Large Language Model**: An implementation in software that takes in input like lots of text, all of the web pages, information, and content and infers what a human might answer when asked the same question by learning the language patterns and predict statistically/probabilistically a human answer with.
 
 
 
