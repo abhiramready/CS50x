@@ -12,14 +12,15 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 
 - Humans use base 10 e.g. 123 (read as one hundred twenty-three) = 1 x 100 + 2 x 20 + 3 x 1 (hundreds, tens, and ones place)
 - Computers use base-2 or binary using 0's and 1's, Bit comes from the _**Bi**_ nary digi _**t**_
-- Binary maps readily with electronics like 'on' (1) and 'off' (0) or store electrical charge using transistors, modern devices like laptops and mobiles have millions and billions of them. Apple M3 Pro has 37 billion
-- In base-2/binary the number 7 = 111 i.e (1 x 2^2 = 4) + (1 x 2^1 = 2) + (1 x 2^0 = 1)
+- A Binary system maps readily with electronics as they store electrical charge using transistors like 'on' (1) and 'off' (0)
+- Modern devices like laptops and mobiles have millions and billions of transistors. Apple M3 Pro has 37 billion
+- In base-2 or binary the number 7 = 111 i.e (1 x 2^2 = 4) + (1 x 2^1 = 2) + (1 x 2^0 = 1)
 - If we want 8 we add one more bit 8 = 1000 i.e (1 x 2^3 = 8) + (0 x 2^2 = 0) + (0 x 2^1 = 0) + (0 x 2^0 = 0)
-- Data is stored in **bytes**, 1 byte = 9 bits, let's take 1 byte with all 1's 11111111 = 255 and hold up to 256 numbers if we consider 0
+- Data is stored in **bytes**, 1 byte = 8 bits, let's take 1 byte with all 1's 11111111 = can hold 255 or 256 numbers if we consider 0
 
-| ![Light Bulbs used to represent 7 in as 111 ( on, on, on)](https://github.com/user-attachments/assets/c9a11472-c464-4441-995a-891215a31a9e) |
+| ![Light Bulbs used to represent 7 as 111 ( on, on, on)](https://github.com/user-attachments/assets/c9a11472-c464-4441-995a-891215a31a9e) |
 |:----------------------:|
-| Light Bulbs used to represent 7 in as 111 ( on, on, on) |
+| Light Bulbs used to represent 7 as 111 ( on, on, on) |
 
 ### ASCII
 
