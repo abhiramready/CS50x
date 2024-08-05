@@ -104,8 +104,8 @@ Creating our function to do something to achieve modularity and abstraction
 |:----------------------:|
 | Oscartime - one of the Games made with Scratch |
 
-
-| ![]() |
+| ![Ivy's Hardest Game](https://github.com/user-attachments/assets/079bf78c-998a-4d6a-a4fb-ae114fd81d71) |
 |:----------------------:|
-|  |
+| Ivy's Hardest Game |
 
+# This is CS50 Week 0 - Scratch | Thank to Professor David J. Malan
