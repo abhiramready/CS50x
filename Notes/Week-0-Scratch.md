@@ -89,12 +89,21 @@ Scratch is a visual programming language, i.e., Scratch is used to visually repr
 | Input -> Algorithm Join (whose purpose is to join the inputs) -> Output |
 
 ### Abstraction & Conditionals in Scratch
-
 Creating our function to do something to achieve modularity and abstraction
 
 | ![Code to Meow function](https://github.com/user-attachments/assets/cb0e6a04-96ba-4ed2-a383-912f0975864d) |
 |:----------------------:|
 | Code to Meow function |
+
+### Oscartime is a Game made from Scratch
+
+- Oscartime is made possible over a few iterations and blocks of logic coming together
+- Step by step where each block handles a particular logic
+
+| ![Oscartime - one of the Games made with Scratch](https://github.com/user-attachments/assets/06c51359-8b87-4ed6-a395-0a4ea375e1b8) |
+|:----------------------:|
+| Oscartime - one of the Games made with Scratch |
+
 
 | ![]() |
 |:----------------------:|
