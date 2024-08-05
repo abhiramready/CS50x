@@ -88,7 +88,7 @@ Scratch is a visual programming language, i.e., Scratch is used to visually repr
 |:----------------------:|
 | Input -> Algorithm Join (whose purpose is to join the inputs) -> Output |
 
-### Abstraction in Scratch
+### Abstraction & Conditionals in Scratch
 
 Creating our function to do something to achieve modularity and abstraction
 
