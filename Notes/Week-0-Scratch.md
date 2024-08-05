@@ -71,11 +71,11 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 
 ## What is Artificial intelligence
 
-**LLM - Large Language Model**: An implementation in software that takes in input lots of information like text, various forms of content, and all of the web pages as input, and then infers(concludes) what a human might answer when asked the same question. An LLM answers like a human by learning the language patterns and predicting a human answer statistically/probabilistically.
+**LLM - Large Language Model**: An implementation in software that takes in lots of information like text, various forms of content, and all of the web pages as input, and then infers(concludes) what a human might answer when asked the same question. An LLM answers like a human by learning the language patterns and predicting a human answer statistically/probabilistically.
 
-| ![CS50.ai](https://github.com/user-attachments/assets/df13b113-7e27-44c1-97e3-e877ba7c1b38) |
+| ![CS50.ai - LLM](https://github.com/user-attachments/assets/df13b113-7e27-44c1-97e3-e877ba7c1b38) |
 |:----------------------:|
-| CS50.ai |
+| CS50.ai - LLM |
 
 ## Scratch
 
@@ -90,7 +90,7 @@ Scratch is a visual programming language, i.e., Scratch is used to visually repr
 | Input -> Algorithm Join (whose purpose is to join the inputs) -> Output |
 
 ### Abstraction & Conditionals in Scratch
-Creating our function to do something to achieve modularity and abstraction
+We can create a function in scratch to do something, by using a function we achieve modularity and abstraction.
 
 | ![Code to Meow function](https://github.com/user-attachments/assets/cb0e6a04-96ba-4ed2-a383-912f0975864d) |
 |:----------------------:|
