@@ -38,3 +38,9 @@ Thinking like a computer and applying solutions to problems i.e in a computation
 | How an Emoji is encoded in Unicode |
 
 ## Algorithms
+What stands between inputs(the problem) and outputs(the solution) are algorithms, which basically means step-by-step instructions for solving our problems.
+
+| ![Algorithm efficiency of three ways to search a number in Phonebook](https://github.com/user-attachments/assets/6104e944-76ea-43d4-92ac-affafc4527bb) |
+|:----------------------:|
+| Algorithm efficiency of three ways to search a number in Phonebook |
+
