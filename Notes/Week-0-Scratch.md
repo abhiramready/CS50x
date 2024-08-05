@@ -77,10 +77,15 @@ Let's say we follow three methods to search for a number from a 1000-page phoneb
 | CS50.ai |
 
 ## Scratch
-- Scratch is a visual programming language, i.e., Scratch is used to visually represent ideas in code
-- Hello world in Scratch
-- 
+Scratch is a visual programming language, i.e., Scratch is used to visually represent ideas in code
 
+| ![Hello world in Scratch](https://github.com/user-attachments/assets/c4dbf895-4470-43ee-a942-afae4837477c) |
+|:----------------------:|
+| Hello world in Scratch |
+
+| ![Input -> Algorithm Join (whose purpose is to join the inputs) -> Output](https://github.com/user-attachments/assets/7fed3015-262d-47e3-80d3-ad7826350c6f) |
+|:----------------------:|
+| Input -> Algorithm Join (whose purpose is to join the inputs) -> Output |
 
 
 
