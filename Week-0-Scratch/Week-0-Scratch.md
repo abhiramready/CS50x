@@ -111,7 +111,7 @@ We can create a function in scratch to do something, by using a function we achi
 |:----------------------:|
 | Ivy's Hardest Game |
 
-
+### This is CS50
 | ![](https://github.com/user-attachments/assets/ac559ad9-2055-4f04-9951-17299d827d46) |
 |:----------------------:|
-| <h3>This is CS50 - Thanks to Harvard Professor David J. Malan</h3> |
+| **Thanks to Harvard Professor David J. Malan** |
