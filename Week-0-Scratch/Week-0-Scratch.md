@@ -1,5 +1,7 @@
 # Week 0 - Scratch
 
+▶️ [Lecture 0 - Scratch](https://video.cs50.io/3LPJfIKxwWc)
+
 ## Computer Science
 
 **Computer Science** is about the goal of **problem solving** using **computational thinking**
@@ -109,4 +111,7 @@ We can create a function in scratch to do something, by using a function we achi
 |:----------------------:|
 | Ivy's Hardest Game |
 
-### This is CS50 - Special Thanks to Harvard Professor David J. Malan
+
+| ![](https://github.com/user-attachments/assets/ac559ad9-2055-4f04-9951-17299d827d46) |
+|:----------------------:|
+| <h3>This is CS50 - Thanks to Harvard Professor David J. Malan</h3> |
